@@ -1,0 +1,7 @@
+C:\Users\Даниил\Desktop\KVADR\KVADR\bin\Debug\KVADR.exe.config
+C:\Users\Даниил\Desktop\KVADR\KVADR\bin\Debug\KVADR.exe
+C:\Users\Даниил\Desktop\KVADR\KVADR\bin\Debug\KVADR.pdb
+C:\Users\Даниил\Desktop\KVADR\KVADR\obj\Debug\KVADR.csprojAssemblyReference.cache
+C:\Users\Даниил\Desktop\KVADR\KVADR\obj\Debug\KVADR.csproj.CoreCompileInputs.cache
+C:\Users\Даниил\Desktop\KVADR\KVADR\obj\Debug\KVADR.exe
+C:\Users\Даниил\Desktop\KVADR\KVADR\obj\Debug\KVADR.pdb
